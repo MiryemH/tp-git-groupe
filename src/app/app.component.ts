@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'TP-GRP-Miryem';
+  changeTextColor()
+  {
+    alert('text color has been changed')
+  }
 }
