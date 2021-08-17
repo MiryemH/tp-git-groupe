@@ -1,0 +1,12 @@
+.boutons {
+  width: 200px;
+  display: flex;
+  justify-content:space-between;
+}
+
+.start {
+  background-color: green;
+}
+.stop {
+  background-color: red;
+}

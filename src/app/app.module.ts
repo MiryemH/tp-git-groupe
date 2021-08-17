@@ -5,10 +5,17 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ComposantPresentationComponent } from './composant-presentation/composant-presentation.component';
 
+
+import { MyTimerComponent } from './my-timer/my-timer.component';
+
+
 @NgModule({
   declarations: [
     AppComponent,
-    ComposantPresentationComponent
+
+    ComposantPresentationComponent,
+
+    MyTimerComponent
   ],
   imports: [
     BrowserModule,

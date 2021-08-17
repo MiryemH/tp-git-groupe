@@ -124,6 +124,10 @@
   },
   "defaultProject": "TP-GRP-Miryem",
   "cli": {
+<<<<<<< HEAD
     "analytics": "8fa932ae-b484-4f29-8bef-08ab718ac9d0"
+=======
+    "analytics": "d96892a1-3430-4d56-9125-dd4947f6c9a0"
+>>>>>>> master
   }
 }
