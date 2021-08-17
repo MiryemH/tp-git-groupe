@@ -12,11 +12,11 @@ import { MyTimerComponent } from './my-timer/my-timer.component';
 @NgModule({
   declarations: [
     AppComponent,
-<<<<<<< HEAD
-    ComposantPresentationComponent
-=======
+
+    ComposantPresentationComponent,
+
     MyTimerComponent
->>>>>>> 043422bf6d468f7a2dc68a39d4506a9537ca40e4
+
   ],
   imports: [
     BrowserModule,
